@@ -1,4 +1,4 @@
-// Local preview only: mounts app/App.tsx. This folder is not uploaded.
+// Application entry point
 import {createRoot} from 'react-dom/client';
 import App from './App';
 
