@@ -79,3 +79,7 @@ The validation analysis and interactive application are in progress. Final concl
 ## Acknowledgement
 
 Developed as an optional final project for Stanford's Probability for AI course, Fall 2026.
+
+## Live Website
+
+http://localhost:5174/
