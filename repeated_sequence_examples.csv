@@ -1,0 +1,12 @@
+ProteinID,Organism,Tm,Tm_min,Tm_max,Method,cluster#,cluster_count
+O95785,Homo sapiens,48.78,48.78,48.78,Meltome/TPP,17294,3
+B7ZM82,Homo sapiens,65.41,65.41,65.41,Meltome/TPP,17294,3
+Q5DTA9,Homo sapiens,47.15,47.15,47.15,Meltome/TPP,13049,3
+Q5DTB0,Homo sapiens,60.38,56.12,64.64,Meltome/TPP,13049,3
+Q6ZWR0,Mus musculus,44.97,43.93,46.01,Meltome/TPP,7148,294
+P61225,Homo sapiens,57.14,50.85,64.1,Meltome/TPP,7148,294
+Q0PD31,Mus musculus,48.1,47.42,48.78,Meltome/TPP,7148,294
+P35290,Mus musculus,61.1,61.1,61.1,Meltome/TPP,7148,294
+Q0PD67,Mus musculus,43.77,42.9,44.64,Meltome/TPP,7148,294
+P62821,Mus musculus,48.99,48.99,48.99,Meltome/TPP,7148,294
+P62820,Homo sapiens,56.64,49.27,65.85,Meltome/TPP,7148,294
